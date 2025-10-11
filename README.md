@@ -1,4 +1,4 @@
-##                                                                            Hi there 👋 I'm Naresh
+##                                                                            Hi 👋 I'm Naresh
 Welcome to my GitHub!
 I'm a Recent Graduate B.Tech Computer Science student from Hyderabad** , is intrested turning real-world ideas into working AI systems.
 
