@@ -1,5 +1,5 @@
-# 🌟 GaddamNaresh2654 — Portfolio
-
+# 🌟 HI! I am Naresh 
+## WelCome To My GitHUb
 Welcome! This is the central portfolio README that showcases my public projects, highlights features and tech stacks, and links to live demos where available.
 
 ---
