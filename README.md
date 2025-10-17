@@ -24,7 +24,7 @@ Highlights:
 ---
 
 ### 🌐 Language Translator (Language-translator)
-[Repository](https://github.com/GaddamNaresh2654/Language-translator) · Live demo: https://gaddamnaresh2654.github.io/Language-translator (replace with your Pages URL if different)  
+[Repository](https://github.com/GaddamNaresh2654/Language-translator) · Live demo: [https://gaddamnaresh2654.github.io/Language-translator](https://gnaresh2654.github.io/lang_translator/)
 A lightweight web app for translating text between languages. Can be extended to use external translation APIs or a server-side translator.
 
 Tech: HTML, CSS, JavaScript  
@@ -36,7 +36,7 @@ Highlights:
 ---
 
 ### 🎨 COLOR-GAME
-[Repository](https://github.com/GaddamNaresh2654/COLOR-GAME) · Live demo: https://gaddamnaresh2654.github.io/COLOR-GAME (replace if different)  
+[Repository](https://github.com/GaddamNaresh2654/COLOR-GAME) · Live demo: https://gaddamnaresh2654.github.io/COLOR-GAME  
 A cognitive speed & focus browser game — identify the color of the text (not the word) under a time constraint.
 
 Tech: HTML, CSS, JavaScript  
@@ -48,7 +48,7 @@ Highlights:
 ---
 
 ### 🧩 Color Sort Puzzle (Color-Sort-Puzzle-game)
-[Repository](https://github.com/GaddamNaresh2654/Color-Sort-Puzzle-game) · Live demo: https://gaddamnaresh2654.github.io/Color-Sort-Puzzle-game (replace if different)  
+[Repository](https://github.com/GaddamNaresh2654/Color-Sort-Puzzle-game) · Live demo: https://gaddamnaresh2654.github.io/Color-Sort-Puzzle-game
 A casual sorting puzzle where users sort colored items into correct groups. Includes drag-and-drop interactions and difficulty progression.
 
 Tech: HTML, CSS, JavaScript  
@@ -86,26 +86,6 @@ To include screenshots or GIFs:
 1. Add images to `/assets/images/` in this repo (create the folder if needed).
 2. Reference them in this README, e.g.:
    `![Color Game Demo](./assets/images/color-game-demo.png)`
-
----
-
-## 🛠️ How to update / commit this README
-
-Suggested commit message:
-- "Add portfolio README with project summaries and live demos"
-
-To commit via GitHub web:
-1. Open https://github.com/GaddamNaresh2654/Gaddamnaresh2654
-2. Click "Add file" → "Create new file" (or Edit README.md)
-3. Name it `README.md`, paste the content from this file block, add the commit message, and commit to `main`.
-
-To commit via CLI:
-1. git clone https://github.com/GaddamNaresh2654/Gaddamnaresh2654.git
-2. cd Gaddamnaresh2654
-3. Create or overwrite README.md with this content
-4. git add README.md
-5. git commit -m "Add portfolio README with project summaries and live demos"
-6. git push origin main
 
 ---
 
