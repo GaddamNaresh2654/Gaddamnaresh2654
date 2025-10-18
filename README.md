@@ -78,23 +78,6 @@ Highlights:
 - COLOR-GAME: https://github.com/GaddamNaresh2654/COLOR-GAME  
 - Color Sort Puzzle: https://github.com/GaddamNaresh2654/Color-Sort-Puzzle-game  
 - TODO-List: https://github.com/GaddamNaresh2654/TODO-List
-
----
-
-## 🖼️ Screenshots & assets
-To include screenshots or GIFs:
-1. Add images to `/assets/images/` in this repo (create the folder if needed).
-2. Reference them in this README, e.g.:
-   `![Color Game Demo](./assets/images/color-game-demo.png)`
-
----
-
-## ✅ Next steps (optional)
-- Replace the demo URLs above with the actual GitHub Pages links if they differ.
-- Add screenshots to `/assets/images/` and embed them here.
-- Add badges (license, languages, open-issues) using shields.io if desired.
-- Link to live deployments if hosted elsewhere (Netlify, Vercel, etc.)
-
 ---
 
 _Last updated: 2025-10-17_
